@@ -1,0 +1,8 @@
+{
+  "name": "Letago",
+  "description": "A high-performance social networking platform featuring AI-enhanced posts, real-time interactions, and smart image captions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
